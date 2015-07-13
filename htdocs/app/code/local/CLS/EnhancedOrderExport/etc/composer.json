@@ -1,0 +1,15 @@
+{
+    "name": "CLS/EnhancedOrderExport",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "description": "Custom cls enhancedorderexport",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"Nathan Toombs",
+            "email":"nathan.toombs@classyllama.com"
+        }
+    ]
+}
